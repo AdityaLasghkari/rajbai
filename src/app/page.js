@@ -14,12 +14,6 @@ export default function Home() {
                     />
                 </div>
                 <div className="relative z-10 mx-auto max-w-5xl px-6 text-center">
-                    <div className="glass-overlay inline-flex items-center gap-2 rounded-full px-4 py-1.5 mb-8 border border-white/10">
-                        <span className="flex h-2 w-2 rounded-full bg-primary animate-pulse"></span>
-                        <span className="text-xs font-bold uppercase tracking-widest text-white/80">
-                            Global Logistics Leader
-                        </span>
-                    </div>
                     <h1 className="text-5xl font-black leading-tight tracking-tight text-white md:text-7xl animate-fade-in">
                         Premium Quality Food{" "}
                         <span className="italic text-accent">Exports</span>

@@ -1,0 +1,61 @@
+--- public/products/1121 Golden Sella Specs.jpeg ---
+Purity 95%
+
+Natural Admixture 5%
+
+Average Grain Length 8.30 MM
+Elongation Upto 16 MM
+Moisture 13% Max
+Broken Grain 0.50%
+Damage/ Dis-Color Grain 1%
+
+Immature Grain Less than 1.5%
+Whiteness 20-22
+
+Foreign Matter NIL
+
+--- public/products/1121 White Sella Specs.jpeg ---
+Purity 95%
+
+Natural Admixture 5%
+
+Average Grain Length 8.35 MM
+Elongation Upto 16.5 MM
+Moisture 13% Max
+Broken Grain 0.50%
+Damage/ Dis-Color Grain 1%
+
+Immature Grain Less than 1.5%
+Whiteness (Light) more than 32
+Foreign Matter NIL
+
+--- public/products/1509 Golden Sella Specs.jpeg ---
+Purity 95%
+
+Natural Admixture 5%
+
+Average Grain Length 8.40 MM
+Elongation Upto 16 MM
+Moisture 13% Max
+Broken Grain 0.50%
+Damage/ Dis-Color Grain 1%
+
+Immature Grain Less than 1.5%
+Whiteness (Light) 20-22
+Whiteness (Dark) 28-30
+
+--- public/products/1509 White Sella specs.jpeg ---
+Purity 95%
+
+Natural Admixture 5%
+
+Average Grain Length 8.40 MM
+Elongation Upto 16.5 MM
+Moisture 13% Max
+Broken Grain 0.50%
+Damage/ Dis-Color Grain 1%
+
+Immature Grain Less than 1.5%
+Whiteness more than 31.5
+Foreign Matter NIL
+

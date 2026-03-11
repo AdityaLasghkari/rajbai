@@ -8,8 +8,8 @@ export default function Footer() {
                     <div className="col-span-1">
                         <Link href="/admin" className="flex items-center gap-3 mb-6">
                             <img
-                                src="/images/logo.png"
-                                alt="Rajbai International & Co."
+                                src="/images/logo-icon.png"
+                                alt="Rajbai International"
                                 className="h-16 w-auto"
                             />
                         </Link>

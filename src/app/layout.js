@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Rajbai International | Premium Dehydrated Onion & Garlic",
+  title: "Rajbai International",
   description:
     "Global leaders in high-performance dehydrated onion and garlic products. FSSC 22000, BRCGS Grade A certified. Exporting to 50+ countries from India.",
   keywords:

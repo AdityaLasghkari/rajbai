@@ -10,9 +10,9 @@ export default function Header() {
             <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-1">
                 <Link href="/" className="flex items-center gap-3">
                     <img
-                        src="/images/logo.png"
-                        alt="Rajbai International & Co."
-                        className="h-20 w-auto"
+                        src="/images/logo-icon.png"
+                        alt="Rajbai International"
+                        className="h-16 w-auto"
                     />
                 </Link>
                 <nav className="hidden md:flex items-center gap-8">
